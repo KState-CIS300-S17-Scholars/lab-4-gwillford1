@@ -1,0 +1,18 @@
+U:\C# Files\CIS 300\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+U:\C# Files\CIS 300\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+U:\C# Files\CIS 300\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+U:\C# Files\CIS 300\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+U:\C# Files\CIS 300\Lab 4\Lab 4\obj\Debug\Lab_4.Form1.resources
+U:\C# Files\CIS 300\Lab 4\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+U:\C# Files\CIS 300\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.Cache
+U:\C# Files\CIS 300\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+U:\C# Files\CIS 300\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
+C:\Users\Evan\Documents\Visual Studio 2015\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+C:\Users\Evan\Documents\Visual Studio 2015\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+C:\Users\Evan\Documents\Visual Studio 2015\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
+C:\Users\Evan\Documents\Visual Studio 2015\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+C:\Users\Evan\Documents\Visual Studio 2015\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+C:\Users\Evan\Documents\Visual Studio 2015\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Documents\Visual Studio 2015\Projects\Lab 4\Lab 4\obj\Debug\Lab_4.Form1.resources
+C:\Users\Evan\Documents\Visual Studio 2015\Projects\Lab 4\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Users\Evan\Documents\Visual Studio 2015\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.Cache
